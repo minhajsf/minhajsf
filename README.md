@@ -17,13 +17,13 @@
 
 <!--- GitHub --->
 <a href="https://github.com/minhajsf">
-     <img align="left" alt="GitHub"
+     <img align="left" alt="GitHub" 
           src="https://img.shields.io/badge/minhajsf-000000?style=flat-square&logo=github&logoColor=white">
 </a>
 
-<!--- LeetCode --->
-<a href="https://leetcode.com/FireStorm1812/">
-     <img align="left" alt="LeetCode"
+<!--- Cornell --->
+<a href="mailto:msf257@cornell.edu/">
+     <img align="left" alt="Cornell" width=20 height=100
           src="https://logosarchive.com/wp-content/uploads/2021/10/Cornell-logo.svg">
 </a>
 
