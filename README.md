@@ -23,8 +23,8 @@
 
 <!--- Cornell --->
 <a href="mailto:msf257@cornell.edu/">
-     <img align="left" alt="Cornell" width="100" height="20"
-          src="/assets/images/examples/lockup-colleges/lockup_engineering.svg">
+     <img align="left" alt="Cornell" 
+          src="/assets/images/examples/lockup-colleges/lockup_engineering.svg.png">
 </a>
 
 <!--- Monkeytype --->
