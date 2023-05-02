@@ -24,7 +24,7 @@
 <!--- LeetCode --->
 <a href="https://leetcode.com/FireStorm1812/">
      <img align="left" alt="LeetCode"
-          src="https://img.shields.io/badge/FireStorm1812-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06">
+          src="https://img.shields.io/badge/Minhaj Fahad-B31B1B?style=flat-square&logo=cornell&logoColor=white">
 </a>
 
 <!--- Monkeytype --->
