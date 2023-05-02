@@ -7,7 +7,8 @@
           src="https://avatars.githubusercontent.com/u/111889497?v=4" 
 />
 
-### 🖥️ College freshman interested in full-stack development 🖥️
+### 🖥️ ml enthusiast & aspiring full-stack developer 💻
+
 
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/minhajfahad/">
@@ -36,11 +37,17 @@
 ------
 
 #### Hello, my name is Minhaj and I'm a Computer Science student at Cornell University
-#### Check out or contact me below and check out my repostories!
+#### Check out or contact me below and see my repostories!
 
 <br /> 
 
-### Programming languages I'm learning
+### Profiency in programming languages
+
+<!--- Java --->
+<a href="https://www.java.com/en/">
+    <img align="left" alt="Java" width="30" height="30" 
+         src="https://logowiki.net/uploads/logo/j/java-14.svg" />
+</a>
 
 <!--- Python --->
 <a href="https://www.python.org/">
@@ -52,14 +59,13 @@
 <a href="https://www.cplusplus.com/">
     <img align="left" alt="C++" width="30" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-</a>
-
-<!--- C# --->
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img align="left" alt="C#" width="30" height="30" 
-         src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-</a>
-
+         
+<!--- VBA --->
+<a href="https://learn.microsoft.com/en-us/office/vba/api/overview/">
+    <img align="left" alt="VBA" width="30" height="30" 
+         src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" />
+</a> 
+         
 <!--- HTML --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="left" alt="HTML" width="30" height="30" 
@@ -70,12 +76,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="left" alt="CSS" width="30" height="30" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</a>
-
-<!--- Java --->
-<a href="https://www.java.com/en/">
-    <img align="left" alt="Java" width="30" height="30" 
-         src="https://logowiki.net/uploads/logo/j/java-14.svg" />
 </a>
 
 <!--- JavaScript --->
