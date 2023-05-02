@@ -9,10 +9,10 @@
 
 ### 🖥️ Hi! I’m a college freshman interested in full-stack development 🖥️
 
-<!--- Discord --->
-<a href="https://discordapp.com/users/398537836468633600">
-     <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
+<!--- LinkedIn --->
+<a href="https://www.linkedin.com/in/minhajfahad/">
+     <img align="left" alt="LinkedIn"
+          src="https://img.shields.io/badge/-minhajfahad%231000-5865F2?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <!--- Twitter --->
