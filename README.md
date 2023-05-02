@@ -15,10 +15,10 @@
           src="https://img.shields.io/badge/-minhajfahad-0072b1?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-<!--- Twitter --->
-<a href="https://twitter.com/FireStorm1812">
-     <img align="left" alt="Twitter"
-          src="https://img.shields.io/badge/FireStorm1812-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
+<!--- GitHub --->
+<a href="https://github.com/minhajsf">
+     <img align="left" alt="GitHub"
+          src="https://img.shields.io/badge/minhajsf-000000?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <!--- LeetCode --->
