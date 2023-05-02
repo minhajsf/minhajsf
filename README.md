@@ -24,7 +24,7 @@
 <!--- Cornell --->
 <a href="mailto:msf257@cornell.edu/">
      <img align="left" alt="Cornell" width="135" height="25" fill:"white"
-          src="https://brand.cornell.edu/assets/images/examples/lockup-colleges/lockup_engineering.svg">
+          src="https://i.imgur.com/k56dEpL.jpeg">
 </a>
 
 <!--- Monkeytype --->
