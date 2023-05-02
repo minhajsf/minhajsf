@@ -24,7 +24,7 @@
 <!--- LeetCode --->
 <a href="https://leetcode.com/FireStorm1812/">
      <img align="left" alt="LeetCode"
-          src="https://img.shields.io/badge/Minhaj Fahad-B31B1B?style=flat-square&logo=[cornell](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACornell_University_seal.svg&psig=AOvVaw1BOF9BfX6O82FXLeInY-FO&ust=1683137615121000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCM466e1_4CFQAAAAAdAAAAABAE)&logoColor=white">
+          src="https://img.shields.io/badge/Minhaj Fahad-B31B1B?style=flat-square&logo=https://upload.wikimedia.org/wikipedia/commons/4/47/Cornell_University_seal.svg&logoColor=white">
 </a>
 
 <!--- Monkeytype --->
