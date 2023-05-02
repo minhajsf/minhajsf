@@ -12,7 +12,7 @@
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/minhajfahad/">
      <img align="left" alt="LinkedIn"
-          src="https://img.shields.io/badge/-minhajfahad%231000-5865F2?&style=flat-square&logo=linkedin&logoColor=white">
+          src="https://img.shields.io/badge/-minhajfahad%23-5865F2?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <!--- Twitter --->
