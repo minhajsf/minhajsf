@@ -7,7 +7,7 @@
           src="https://avatars.githubusercontent.com/u/111889497?v=4" 
 />
 
-### 🖥️ Hi! I’m a college freshman interested in full-stack development 🖥️
+### 🖥️ College freshman interested in full-stack development 🖥️
 
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/minhajfahad/">
@@ -35,8 +35,8 @@
 
 ------
 
-#### Hello, my name is Ethan, and I'm a college student studying at Cornell University
-#### Feel free to add me on any of the linked socials or check out my repos
+#### Hello, my name is Minhaj and I'm a Computer Science student at Cornell University
+#### Check out or contact me below and check out my repostories!
 
 <br /> 
 
