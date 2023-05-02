@@ -7,7 +7,7 @@
           src="https://avatars.githubusercontent.com/u/111889497?v=4" 
 />
 
-### 🖥️ ml enthusiast & aspiring full-stack developer 💻
+### 🖥️ ML enthusiast & aspiring full-stack developer 💻
 
 
 <!--- LinkedIn --->
@@ -41,7 +41,7 @@
 
 <br /> 
 
-### Profiency in programming languages
+### Programming languages I'm profient in
 
 <!--- Java --->
 <a href="https://www.java.com/en/">
