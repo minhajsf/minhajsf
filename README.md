@@ -23,7 +23,7 @@
 
 <!--- Cornell --->
 <a href="mailto:msf257@cornell.edu/">
-     <img align="left" alt="Cornell" width="200" height="600"
+     <img align="left" alt="Cornell" width="600" height="200"
           src="https://media.licdn.com/dms/image/C4E22AQHeKjV2AGvYKA/feedshare-shrink_800/0/1623360090152?e=2147483647&v=beta&t=3ng_kJ8ZDaaauR7zODQ3sGAmFPwVvk7tf7iQf8QrtcI">
 </a>
 
