@@ -37,7 +37,7 @@
 ------
 
 #### Hello, my name is Minhaj and I'm a Computer Science student at Cornell University
-#### Check out or contact me below and see my repostories!
+#### Contact me or check out my repostories below!
 
 <br /> 
 
