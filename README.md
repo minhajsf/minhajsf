@@ -65,7 +65,13 @@
     <img align="left" alt="VBA" width="30" height="30" 
          src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" />
 </a> 
-         
+     
+<!--- SQL --->
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img align="left" alt="VBA" width="30" height="30" 
+         src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" />
+</a> 
+     
 <!--- HTML --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img align="left" alt="HTML" width="30" height="30" 
@@ -108,18 +114,24 @@
          src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg">  
 </a>
 
-<!--- Pycharm --->
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" >
-    <img align="left" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png">
-</a>
-
 <!--- VSCode --->
 <a href="https://code.visualstudio.com/" target="_blank">
     <img align="left" height="30" 
          src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
 </a>
-
+     
+<!--- Pycharm --->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" >
+    <img align="left" height="30" 
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png">
+</a>
+     
+<!--- Jupyter Notebook --->
+<a href="https://jupyter.org/" target="_blank" >
+    <img align="left" height="30" 
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+</a>
+     
 <!--- Vim --->
 <a href="https://www.vim.org/" target="_blank">
     <img align="left" height="30" 
@@ -139,44 +151,44 @@
 ### Applications & Platforms
 
 <!--- Anaconda --->
-<a href="https://www.anaconda.com/">
+<a href="https://www.anaconda.com/" target="_blank">
      <img align="left" alt="Anaconda" height="25"
           src="https://i.imgur.com/UVYwReR.png">
 </a>
 
 
 <!--- Google Cloud --->
-<a href="https://www.gitpod.io/">
+<a href="https://cloud.google.com/" target="_blank">
      <img align="left" alt="Goodgle Cloud" height="25"
           src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png">
 </a>
      
 <!--- Postman --->
-<a href="https://nodejs.org/en/">
+<a href="https://www.postman.com/" target="_blank">
      <img align="left" alt="Postman" height="25"
           src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a>
 
 <!--- TensorFlow --->
-<a href="https://www.tensorflow.org/">
+<a href="https://www.tensorflow.org/" target="_blank">
      <img align="left" alt="TensorFlow" height="25"
           src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">
 </a>
 
 <!--- Amazon Web Services --->
-<a href="https://git-scm.com/">
+<a href="https://aws.amazon.com/" target="_blank">
      <img align="left" alt="AWS" height="25"
           src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">
 </a>
 
 <!--- Linux --->
-<a href="https://www.linux.org/">
+<a href="https://www.linux.org/" target="_blank">
      <img align="left" alt="Linux" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </a>
      
 <!--- Docker --->
-<a href="https://www.linux.org/">
+<a href="https://www.docker.com/" target="_blank">
      <img align="left" alt="Docker" height="25"
           src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
 </a>
