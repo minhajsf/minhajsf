@@ -144,16 +144,17 @@
           src="https://i.imgur.com/UVYwReR.png">
 </a>
 
-<!--- NodeJS --->
-<a href="https://nodejs.org/en/">
-     <img align="left" alt="NodeJS" height="25"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</a>
 
 <!--- Google Cloud --->
 <a href="https://www.gitpod.io/">
      <img align="left" alt="Goodgle Cloud" height="25"
           src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png">
+</a>
+     
+<!--- Postman --->
+<a href="https://nodejs.org/en/">
+     <img align="left" alt="Postman" height="25"
+          src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a>
 
 <!--- TensorFlow --->
@@ -172,4 +173,10 @@
 <a href="https://www.linux.org/">
      <img align="left" alt="Linux" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+</a>
+     
+<!--- Docker --->
+<a href="https://www.linux.org/">
+     <img align="left" alt="Docker" height="25"
+          src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
 </a>
