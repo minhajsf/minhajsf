@@ -41,7 +41,7 @@
 
 <br /> 
 
-### Programming languages I'm profient in
+### Programming Languages
 
 <!--- Java --->
 <a href="https://www.java.com/en/" target="_blank">
@@ -100,7 +100,7 @@
          src="https://github-readme-stats.vercel.app/api?username=minhajsf&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-### IDEs and editors I use
+### IDEs and Editors
 
 <!--- IDEA --->
 <a href="https://www.jetbrains.com/idea/" target="_blank">
@@ -136,7 +136,7 @@
 
 ----
 
-### Applications & platforms I use
+### Applications & Platforms
 
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
@@ -150,10 +150,10 @@
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </a>
 
-<!--- GitPod --->
+<!--- Google Cloud --->
 <a href="https://www.gitpod.io/">
-     <img align="left" alt="GitPod" height="25"
-          src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4">
+     <img align="left" alt="Goodgle Cloud" height="25"
+          src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png">
 </a>
 
 <!--- TensorFlow --->
@@ -162,10 +162,10 @@
           src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">
 </a>
 
-<!--- Git --->
+<!--- Amazon Web Services --->
 <a href="https://git-scm.com/">
-     <img align="left" alt="Git" height="25"
-          src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+     <img align="left" alt="AWS" height="25"
+          src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">
 </a>
 
 <!--- Linux --->
