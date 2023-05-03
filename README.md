@@ -69,7 +69,7 @@
 <!--- SQL --->
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
     <img align="left" alt="VBA" width="30" height="30" 
-         src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" />
+         src="https://i.imgur.com/Flgka99.png" />
 </a> 
      
 <!--- HTML --->
