@@ -103,13 +103,13 @@
 ### IDEs and editors I use
 
 <!--- IDEA --->
-<a href="https://www.jetbrains.com/idea/"target="_blank">
+<a href="https://www.jetbrains.com/idea/" target="_blank">
     <img align="left" height="30" 
          src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg">  
 </a>
 
 <!--- Pycharm --->
-<a href="https://www.jetbrains.com/pycharm/"target="_blank" >
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" >
     <img align="left" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png">
 </a>
@@ -127,7 +127,7 @@
 </a>
 
 <!--- Emacs --->
-<a href="https://www.gnu.org/software/emacs/>
+<a href="https://www.gnu.org/software/emacs/" target="_blank">
     <img align="left" height="30" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png">
 </a>
