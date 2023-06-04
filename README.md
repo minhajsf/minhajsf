@@ -31,7 +31,7 @@
 <!--- Monkeytype --->
 <a href="https://monkeytype.com/" target="_blank">
      <img align="left" alt="Monkeytype"
-          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D130wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done" target="_blank">
+          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D140wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done" target="_blank">
 </a>
 
 ------
